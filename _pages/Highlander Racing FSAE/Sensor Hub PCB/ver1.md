@@ -23,4 +23,7 @@ Top_Level.SchDoc
 ![](/NP-Portfolio/assets/img/Sensorhub1_images/Can_Tranceiver.png)
 [4] Regulator.SchDoc
 ![](/NP-Portfolio/assets/img/Sensorhub1_images/Regulator.png)
-****
+
+# 3D Model
+![](/NP-Portfolio/assets/img/Sensorhub1_images/PCB_3D.png)
+
