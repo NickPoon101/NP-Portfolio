@@ -10,6 +10,11 @@ The Sensor Hub PCB project is a board directed to facilitate system integration 
 
 ![](/NP-Portfolio/assets/img/SensorHub2_images/PCB_2D.png)
 
+# Revisions 
+- Test points were added for more efficient board testing
+- Changed secondary connector to another Conn-Ampseal-776267-1
+- Added LED indicators for the STM32 
+- Reworked layout and validated circuitry in schematics
 # Schematics 
 ---
 Top_Level.SchDoc
