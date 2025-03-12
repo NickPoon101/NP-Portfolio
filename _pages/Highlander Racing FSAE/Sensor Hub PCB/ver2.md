@@ -1,6 +1,6 @@
 ---
 title: "Sensor Hub Revision #2"
-date: "2023-12-01"
+date: "2024-02-01"
 thumbnail: "/assets/img/SensorHub2_images/PCB_3D.png"
 ---
 
