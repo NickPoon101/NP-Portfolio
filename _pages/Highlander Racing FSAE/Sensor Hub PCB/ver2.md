@@ -19,7 +19,7 @@ Top_Level.SchDoc
 [2] STM32F4.SchDoc
 ![](/NP-Portfolio/assets/img/SensorHub2_images/STM32F4.png)
 [3] CAN_Transceiver.SchDoc
-![](/NP-Portfolio/assets/img/SensorHub2_images/Can_Tranceiver.png)
+![](/NP-Portfolio/assets/img/SensorHub2_images/CAN_Tranceiver.png)
 [4] Regulator.SchDoc
 ![](/NP-Portfolio/assets/img/SensorHub2_images/Regulators.png)
 [5] Buzzer.SchDoc
