@@ -15,13 +15,15 @@ The Sensor Hub PCB project is a board directed to facilitate system integration 
 Top_Level.SchDoc
 ![](/NP-Portfolio/assets/img/SensorHub2_images/Top_level.png)
 [1] Connectors.SchDoc
-![](/NP-Portfolio/assets/img/SensorHub2_images/Conncectors.png)
+![](/NP-Portfolio/assets/img/SensorHub2_images/Connectors.png)
 [2] STM32F4.SchDoc
 ![](/NP-Portfolio/assets/img/SensorHub2_images/STM32F4.png)
 [3] CAN_Transceiver.SchDoc
 ![](/NP-Portfolio/assets/img/SensorHub2_images/Can_Tranceiver.png)
 [4] Regulator.SchDoc
-![](/NP-Portfolio/assets/img/SensorHub2_images/Regulator.png)
+![](/NP-Portfolio/assets/img/SensorHub2_images/Regulators.png)
+[5] Buzzer.SchDoc
+![](/NP-Portfolio/assets/img/SensorHub2_images/Buzzer.png)
 
 # 3D Model
 ---
