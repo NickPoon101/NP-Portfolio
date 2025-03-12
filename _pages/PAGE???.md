@@ -1,4 +1,3 @@
-
 ---
 title: "Publishing your blog post"
 tags:
