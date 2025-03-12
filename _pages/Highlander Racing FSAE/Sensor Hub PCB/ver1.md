@@ -8,7 +8,7 @@ thumbnail: "/assets/img/thumbnail/PCB_3D.png"
 ---
 ** The Sensor Hub PCB project is a board directed to facilitate system integration and conduct sensor fusion for all control sensors(Throttle Potentiometer, Steer, Brakes, etc.) on the vehicle. The board utilizes an STM32F-series microcontroller with a (CAN) BUS communication protocol design.**
 
-![](/assets/img/Sensorhub1_images/Top_level.png)
+![](/assets/img/Sensorhub1_images/Top_level.png "Top_Level.SchDoc")
 
 # Schematics 
 ---
