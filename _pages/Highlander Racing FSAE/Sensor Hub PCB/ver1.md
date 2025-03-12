@@ -1,6 +1,7 @@
 ---
 title: "Sensor Hub Revision #1"
 date: "2023-12-01"
+thumbnail: "/assets/img/thumbnail/PCB_3D.png"
 ---
 
 # Project Description 
