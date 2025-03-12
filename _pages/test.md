@@ -10,7 +10,7 @@ bookmark: true
 
 This section deals with the step-by-step process of how to write and publish posts on your site.
 
-# Make `_pages` directory
+# Test Subtitle
 ---
 Create a directory named `_pages` in root if you do not have it.
 
