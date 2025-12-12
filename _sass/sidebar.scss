@@ -44,7 +44,22 @@
 
 .site-tab img { display: none; }
 
+.site-avatar {
+  img {
+    display:none;
+    width:9rem;
+    aspect-ratio:1;
+    border-radius:50%;
+    outline:none;
+    outline-offset:0;
+    transition:.3s;
 
+    &:hover {
+      outline:4px solid orange;
+      outline-offset:8px;
+    }
+  }
+}
 
 .site-tab {
   padding:8px;
