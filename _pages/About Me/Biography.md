@@ -2,7 +2,7 @@
 title: About Me
 bookmark: true
 tags: [EE, RF, Embedded, PCB]
-thumbnail: /assets/img/Nick_profile.png
+thumbnail: /assets/img/Nick_Profile_2.jpg
 ---
 
 ## Hey — I’m Nicholas Poon
