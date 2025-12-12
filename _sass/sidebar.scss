@@ -53,11 +53,6 @@
     outline:4.5rem solid rgba(64,64,64,0.5);
     outline-offset:-4.5rem;
     transition:.3s;
-
-    &:hover {
-      outline:4px solid orange;
-      outline-offset:8px;
-    }
   }
 
   img + img { border-radius:50%; }
