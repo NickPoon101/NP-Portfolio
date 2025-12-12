@@ -47,9 +47,12 @@
 .site-avatar {
   img {
     display:none;
-    width:9rem;
-    aspect-ratio:1;
-    border-radius:50%;
+    width: 9rem;
+    aspect-ratio: 1 / 1;
+    height: auto;          
+    object-fit: cover;    
+    object-position: center;
+    border-radius: 50%;    
     outline:none;
     outline-offset:0;
     transition:.3s;
