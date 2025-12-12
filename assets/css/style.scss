@@ -64,3 +64,17 @@ input::-webkit-search-results-decoration{
 @import "post";
 @import "search";
 @import "darkmode";
+
+/* kill any hover dimming/overlay on the avatar */
+.sidebar .site-avatar:hover,
+.sidebar .site-avatar:focus {
+  background: transparent !important;
+  box-shadow: none !important;
+}
+
+.sidebar .site-avatar:hover img,
+.sidebar .site-avatar:focus img {
+  opacity: 1 !important;
+  filter: none !important;
+  transform: none !important;
+}
