@@ -1,0 +1,11 @@
+/* Remove hover shading from profile image */
+.site-avatar:hover,
+.site-avatar:focus {
+  background: none !important;
+}
+
+.site-avatar:hover img,
+.site-avatar:focus img {
+  opacity: 1 !important;
+  filter: none !important;
+}
