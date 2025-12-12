@@ -6,7 +6,7 @@ thumbnail: /assets/img/Nick_profile.png
 ---
 
 ## Hey — I’m Nicholas Poon
--[Link to Resume](https://drive.google.com/file/d/1clmUirRMx5Xnpp7sCl0jpPV9g7l_HCVp/view?usp=drive_link)
+- [Link to Resume](https://drive.google.com/file/d/1clmUirRMx5Xnpp7sCl0jpPV9g7l_HCVp/view?usp=drive_link)
 
 I’m an Electrical Engineering student focused on building practical systems at the intersection of **RF, embedded, and hardware design**.  
 I like projects where the requirements are real (range, power, noise, reliability) and the solution has to work outside the lab.
