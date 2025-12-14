@@ -6,7 +6,11 @@ thumbnail: "/assets/img/AMB HR FSAE photos/AMB_PCB_3D_photo.png"
 
 # Project Description 
 ---
-The Accumulator Management Board, aka Watchdog, is a precharge circuit that separates the main tractive system of the FSAE vehicle from the accumulator. Utilizing an AIR (Accumulator Isolation Relay) to isolate the accumulator from the main system, we time a switching circuit to control the charging current coming from the 400V accumulator. By breaking and closing the circuit through the precharge resistor, we can safely charge the precharge capacitor and connect to the system. This design is analog-controlled and doesn't use digital voltage readings to control the switching. Other applications include a stepdown circuit from the 400V input to a 12V output to power the low-voltage circuitry.
+The Accumulator Management Board (AMB), also known as the “Watchdog,” is an analog precharge and protection board that isolates the FSAE vehicle’s main tractive system from the high-voltage accumulator. It uses an Accumulator Isolation Relay (AIR) to keep the accumulator disconnected from the tractive system until precharge is complete.
+
+During startup, a timed switching circuit routes current through a precharge resistor to safely charge the DC-link (precharge) capacitor, limiting inrush current. Once the capacitor is charged, the circuit closes to connect the accumulator to the rest of the system. This design is fully analog-controlled and does not rely on digital voltage sensing for switching decisions.
+
+The board also includes a 400 V to 12 V step-down supply to power the vehicle’s low-voltage electronics.
 
 ![](/NP-Portfolio/assets/img/AMB HR FSAE photos/AMB_PCB_2D_photo.png)
 
