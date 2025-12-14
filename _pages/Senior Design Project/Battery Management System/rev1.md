@@ -1,6 +1,7 @@
 ---
 title: "BMS PCB Revision #1 (In Progress)"
 date: "2025-12-13"
+tags: [EE, Embedded, High Voltage, I2C, STM32, USB, BMS, PCB]
 thumbnail: "/assets/img/Senior Design Photos/Senior_Design_PCB_3D_photo.png"
 ---
 
