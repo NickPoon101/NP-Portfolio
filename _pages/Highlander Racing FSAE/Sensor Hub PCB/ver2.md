@@ -1,7 +1,7 @@
 ---
 title: "Sensor Hub Revision #2"
 date: "2024-02-01"
-tags: [EE, High Voltage, Embedded, Power Circuit, PCB]
+tags: [EE, Embedded, ADC, CAN, PCB]
 thumbnail: "/assets/img/SensorHub2_images/PCB_3D.png"
 ---
 
