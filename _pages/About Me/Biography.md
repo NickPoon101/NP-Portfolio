@@ -8,8 +8,7 @@ thumbnail: /assets/img/Nick_Profile_2.jpg
 ## Hey — I’m Nicholas Poon
 - [Link to Resume](https://drive.google.com/file/d/1clmUirRMx5Xnpp7sCl0jpPV9g7l_HCVp/view?usp=drive_link)
 
-I’m an Electrical Engineering student focused on building practical systems at the intersection of **RF, embedded, and hardware design**.  
-I like projects where the requirements are real (range, power, noise, reliability) and the solution has to work outside the lab.
+I’m Nicholas Poon, an Electrical Engineering student at UC Riverside. My main focus is PCB design, and I’m actively growing my skills in RF and high-speed hardware. I’m also into robotics—especially projects where the board design, signal integrity, and real-world testing all matter.
 
 ---
 
