@@ -1,6 +1,7 @@
 ---
 title: "Accumulator Management Board"
 date: "2025-05-31"
+tags: [EE, High Voltage, Embedded, Power Circuit, PCB]
 thumbnail: "/assets/img/AMB HR FSAE photos/AMB_PCB_3D_photo.png"
 ---
 
