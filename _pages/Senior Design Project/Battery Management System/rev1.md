@@ -1,5 +1,5 @@
 ---
-title: "BMS Board Revision #1 (In Progress)"
+title: "BMS PCB Revision #1 (In Progress)"
 date: "2025-12-13"
 thumbnail: "/assets/img/Senior Design Photos/Senior_Design_PCB_3D_photo.png"
 ---
@@ -34,4 +34,4 @@ The Sensor Hub PCB project is a board directed to facilitate system integration 
 
 # 3D Model
 ---
-![](/NP-Portfolio/assets/img/SensorHub2_images/PCB_3D.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Senior_Design_PCB_3D_photo.png)
