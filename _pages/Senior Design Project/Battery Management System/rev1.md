@@ -18,19 +18,19 @@ The Sensor Hub PCB project is a board directed to facilitate system integration 
 # Schematics 
 ---
 [1] Top_Level.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_1_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_1_photo.png)
 [2] Connectors.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_2_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_2_photo.png)
 [3] BQ76930.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_3_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_3_photo.png)
 [4] HW-Temp-Mon.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_4_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_4_photo.png)
 [5] Power-Tree.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_5_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_5_photo.png)
 [6] STM32F3.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_6_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_6_photo.png)
 [7] Fan-Controls.SchDoc
-![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_7_photo.png)
+![](/NP-Portfolio/assets/img/Senior Design Photos/Schem_7_photo.png)
 
 # 3D Model
 ---
