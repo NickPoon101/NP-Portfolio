@@ -1,6 +1,6 @@
 ---
-title: "BMS Board Revision #1"
-date: "In Progress"
+title: "BMS Board Revision #1 (In Progress)"
+date: "2025-12-13"
 thumbnail: "/assets/img/Senior Design Photos/Senior_Design_PCB_3D_photo.png"
 ---
 
