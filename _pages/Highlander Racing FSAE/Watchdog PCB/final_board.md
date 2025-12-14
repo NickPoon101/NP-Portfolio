@@ -1,7 +1,7 @@
 ---
 title: "Accumulator Management Board"
 date: "2025-05-31"
-thumbnail: "/assets/img/SensorHub2_images/PCB_3D.png"
+thumbnail: "/assets/img/AMB HR FSAE photos/AMB_PCB_3D_photo.png"
 ---
 
 # Project Description 
@@ -18,7 +18,7 @@ The Sensor Hub PCB project is a board directed to facilitate system integration 
 # Schematics 
 ---
 Top_Level.SchDoc
-![](/NP-Portfolio/assets/img/SensorHub2_images/Top_level.png)
+![](/NP-Portfolio/assets/img/AMB HR FSAE photos/Schem_1_photo.png)
 [1] Connectors.SchDoc
 ![](/NP-Portfolio/assets/img/SensorHub2_images/Connectors.png)
 [2] STM32F4.SchDoc
